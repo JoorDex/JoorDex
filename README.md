@@ -8,4 +8,4 @@ Empecé a estudiar desde el 2022, y soy un apasionado en los proyectos de desarr
 
 Más allá de ser un Back-end más también tengo mis propios gustos dentro de esta carrera. Pues también me gusta adquirir conocimientos básicos (por ahora) acerca del desarollo de videojuegos y el área de cyberseguridad.
 
-Me gusta almancernar mis proyectos más ambiciosos aquí :)
+Me gusta almancernar mis proyectos más ambiciosos y desafiantes aquí :)
