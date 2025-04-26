@@ -1,11 +1,47 @@
-### Hola a todos, soy JoorDex 👨🏻‍💻
+<h1 align="center"><b>Hi , I'm JoorDex </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Mi nombre original es Jorge.
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-Estoy culminando la carrera de Ingeniera en Software.
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Empecé a estudiar desde el 2022, y soy un apasionado en los proyectos de desarrollo de software en Back-end, he trabajado más el área del desarrollo web pero igual estoy intersado en aprender acerca de las áreas de desarrollo móvil y de escritorio. 
+<br><br>
 
-Más allá de ser un Back-end más también tengo mis propios gustos dentro de esta carrera. Pues también me gusta adquirir conocimientos básicos (por ahora) acerca del desarollo de videojuegos y el área de cyberseguridad.
+- :school: I am a `Junior` at [Universidad Politécnica Del Centro](https://www.updc.edu.mx/).
+- :technologist: I love using Software as a solution for every `problem`.
+- :computer: I like to be `proactive` and `constant` in my learning.
+- :student: I’m currently learning `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a `first job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1C8cLGS78R4nnU7jsdH2_iMgakcMe3zny/view?usp=sharing).
+<br>
 
-Me gusta almancernar mis proyectos más ambiciosos y desafiantes aquí :)
+
+<div align="center">
+  <h2>Languages & Database</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <!-- <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> -->
+</p>
+</div>
+
+<div align="center">
+  <h2>Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
+</p>
+</div>
+
+<div align="center">
+  <h2>📫 Get in Touch</h2>
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diazcoloradojorge@outlook.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joordex)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoorDex)
+  <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() -->
+</div>
+
