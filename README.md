@@ -11,7 +11,7 @@
 - :computer: I like to be `proactive` and `constant` in my learning.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a `first job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1C8cLGS78R4nnU7jsdH2_iMgakcMe3zny/view?usp=sharing).
+- :thinking: I’m currently open for a `first job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1VrqdIuX-qy1HP6dK_O1Axij11WokM8nY/view?usp=sharing).
 <br>
 
 
